@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b1ef6523bfb452043afca08c94eea4aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ResourcesParent: {instanceID: 0}
+  - ResourcePrefab: {fileID: 7435864515126253237, guid: 81245f3281d5cc446abdb55ded9163f6,
+      type: 3}
+  - TapTextPrefab: {fileID: 2780615150499124544, guid: 696999067622def48914294e6af3ef7a,
+      type: 3}
+  - CoinIcon: {instanceID: 0}
+  - GoldInfo: {instanceID: 0}
+  - AutoCollectInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

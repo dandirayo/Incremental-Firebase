@@ -1,0 +1,7 @@
+
+Mohon maaf kak file ini selalu tidak bisa kalau di upload
+- Jadi saya zip, kalau mau diperiksa tolong di unzip dulu kak.
+
+E:Incremental-Firebase\Incremental_game\Assets\Firebase\Plugins\x86_64
+
+FirebaseCppApp-8_5_0.so.zip
